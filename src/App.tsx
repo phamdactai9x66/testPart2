@@ -17,8 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        tai Pham22
-        awdaw
+        22
         </a>
       </header>
     </div>
