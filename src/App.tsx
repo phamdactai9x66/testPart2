@@ -10,7 +10,7 @@ function App() {
         <p>
          taiPham 01
         </p>
-        xin chao123
+       
         <a
           className="App-link"
           href="https://reactjs.org"
